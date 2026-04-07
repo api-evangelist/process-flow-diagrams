@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Process Mapping
-  - Workflow Visualization
   - Business Process Management
   - Documentation
+  - Process Mapping
+  - Workflow Visualization
 url: >-
   https://raw.githubusercontent.com/api-evangelist/process-flow-diagrams/refs/heads/main/apis.yml
 created: '2026-03-16'
